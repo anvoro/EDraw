@@ -1,8 +1,6 @@
 {
     "name": "EDraw-Editor",
-    "references": [
-        "GUID:734f4f39c04ab8b4fa24c8646904eb57"
-    ],
+    "references": [],
     "optionalUnityReferences": [],
     "includePlatforms": [
         "Editor"
